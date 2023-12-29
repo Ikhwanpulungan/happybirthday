@@ -110,10 +110,10 @@ body {
 
 .six .hat {
   left: 41.5%;
-  position: relative;
+  position: absolute;
   /* transform: scale(0.1); */
   top: -35%;
-  width: 120px;
+  width: 80px;
 }
 
 .baloons img {
@@ -246,7 +246,7 @@ body {
 
 @media screen and (max-height: 850px) and (max-width: 450px) {
   .six .hat {
-    left: 66%;
+    left: 22%;
   }
 }
 
